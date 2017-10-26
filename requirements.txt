@@ -13,7 +13,7 @@ django-extensions==1.7.9
 django-grappelli==2.10.1
 django-polymorphic==1.2
 django-redis==4.8.0
-django-registration==2.3
+django-registration==2.2
 django-smart-selects==1.5.2
 django-tastypie==0.13.3
 docutils==0.13.1
