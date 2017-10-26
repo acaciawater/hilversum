@@ -3,7 +3,6 @@ appdirs==1.4.3
 asn1crypto==0.22.0
 Babel==2.4.0
 cffi==1.10.0
-confusable-homoglyphs==2.0.2
 cryptography==1.8.1
 cycler==0.10.0
 Django==1.11.6
